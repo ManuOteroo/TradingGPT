@@ -1,5 +1,38 @@
-1. TENDENCIA Y SESGO MACRO: Alcista. Sesgo Comprador por encima de 6,840.
-2. ESTRUCTURA RECIENTE H1: Máximos y mínimos crecientes. Dirección alcista última hora.
-3. NIVELES CLAVE DE LIQUIDEZ: Resistencia Clave: 6,920, Soporte Clave: 6,840.
-4. POSICIÓN RELATIVA VWAP: Cotizando por encima del VWAP diario, confirmando la zona de valor superior.
-5. SÍNTESIS GENERAL: Se mantiene la estructura alcista mientras no se rompa el soporte en 6,840.
+Para realizar un análisis efectivo observa lo siguiente:
+
+### Análisis de Tendencia
+
+#### Gráfico H4
+
+1. **Tendencia General:**
+   - Observa los movimientos anteriores: hay un rango lateral con posibles señales de inversión después de una caída, pero también episodios de subida que no se sostienen.
+   - A corto plazo, podría interpretarse como indecisión.
+
+2. **Patrones Relevantes:**
+   - Existen zonas de consolidación seguidas de movimientos bruscos. Esto podría indicar breakout en futuro próximo.
+
+#### Gráfico H1
+
+1. **Tendencia Reciente:**
+   - Muestra más claramente movimientos de corta trayectoria con múltiplos intentos de ruptura.
+   - Presencia de velas con sombras largas, indicando fuerte presión.
+
+### Niveles Clave
+
+1. **Soporte:**
+   - En el H4, el nivel alrededor de 6,740 parece ser un fuerte soporte, ya que ha sido alcanzado y defendido varias veces.
+
+2. **Resistencia:**
+   - En el H4, el área de 6,880-6,900 actúa como resistencia inmediata.
+
+### Estrategia de Órdenes
+
+- **Compra:** Considera entrar en largos si el precio se sostiene por encima de 6,880 con buen volumen.
+- **Venta:** Considera cortos si el precio rompe el soporte de 6,740, especialmente si hay aumento de volumen.
+
+### Comentario Adicional
+
+- Es esencial mantenerse pendiente de factores externos o noticias económicas que puedan causar volatilidad.
+- Ajusta los niveles según se desarrolle más el gráfico y las acciones de precio evidencien un patrón más claro. 
+
+Recuerda siempre gestionar el riesgo adecuadamente.
